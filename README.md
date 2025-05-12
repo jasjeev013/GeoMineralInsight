@@ -76,12 +76,14 @@ geopandas, rasterio, scikit-learn, xgboost, shap, matplotlib, seaborn
 | Geochemical Ratios    | `Cu/Zn`, `Ni/Cr`         | Indicator of mineralization|  
 | Structural Proximity  | `Distance to Faults`     | Controls fluid pathways    |  
 | Spectral Indices      | `Clay/Silica Ratio`      | Hydrothermal alteration    |  
-  ![Clay/Silica Ratio](images/clay_silica_ratio.png)  
+
+![Clay/Silica Ratio](images/clay_silica_ratio.png)  
 
 ### **3. Model Building**  
 - **Algorithms**: Random Forest (AUC: 0.89) vs. XGBoost (AUC: 0.91).  
 - **Validation**: 78% of high-probability points matched GSI’s known blocks.  
-  ![Confusion Matrix](images/confusion_matrix.png)  
+
+![Confusion Matrix](images/confusion_matrix.png)  
 
 ---
 
@@ -133,13 +135,3 @@ model = gravity.Inversion.run(...)
 **🌟 Hackathon Submission by Team [Your Team Name]**  
 *Powered by Python and Open Geoscience Data*  
 ``` 
-
----
-
-### **Key Highlights for Judges**  
-1. **Visual Storytelling**: Embedded images (EDA → Results) with clear captions.  
-2. **Reproducibility**: Detailed setup + environment instructions.  
-3. **Technical Rigor**: SHAP, AUC scores, and spatial validation.  
-4. **Impact**: 12 new targets identified, ready for ground truthing.  
-
-Let me know if you'd like to add a demo GIF or video link! 🎥
