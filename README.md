@@ -49,7 +49,7 @@ conda activate ./venv
 pip install -r requirements.txt
 ```
 
-### **Option 2: Virtualenv**  
+### **Option 2: Virtualenv (venv)**  
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac | venv\Scripts\activate on Windows
