@@ -1,0 +1,13 @@
+venv/
+datasets/MAGNETIC/
+datasets/Remotesening data/
+datasets/Geochronology_Map_of_Karnataka_and_Andhra_Pradesh/
+datasets/Geomorphology_250k/
+datasets/Ground_gravity_asci_grid_geotiff/
+datasets/Lineament_250k/
+datasets/Multi-Layer_Geological_Map_of_Karnataka_and_Andhra_Pradesh_25K_Scale/
+datasets/Multi-Layer_Geological_Map_of_Karnataka_and_Andhra_Pradesh_50K_Scale/
+datasets/Geochemical data_GIS/
+datasets/Exploration_data/
+images/
+final_datasets/

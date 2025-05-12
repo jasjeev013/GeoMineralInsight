@@ -1,0 +1,14 @@
+ipykernel
+pandas 
+numpy 
+matplotlib 
+seaborn 
+geopandas 
+rasterio 
+folium 
+shapely 
+descartes 
+pyproj
+scikit-learn
+shap
+simpeg
