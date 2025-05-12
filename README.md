@@ -132,6 +132,6 @@ model = gravity.Inversion.run(...)
 
 ---
 
-**🌟 Hackathon Submission by Team [Your Team Name]**  
+**🌟 Hackathon Submission by Team GeoSurfers**  
 *Powered by Python and Open Geoscience Data*  
-``` 
+
