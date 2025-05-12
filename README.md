@@ -38,7 +38,7 @@ project-root/
 ├── images/                 # Visualizations (EDA, results)
 ├── notebooks/              # Jupyter notebooks (EDA → Modeling)
 └── venv/                   # Conda environment
-
+```
 ---
 
 ## 🛠 Setup Instructions  
