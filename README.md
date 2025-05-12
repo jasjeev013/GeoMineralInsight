@@ -1,6 +1,3 @@
-Here’s a comprehensive, well-structured `README.md` for your project, designed to impress hackathon judges with clarity, technical depth, and visual storytelling:
-
-```markdown
 # AI-Driven Mineral Targeting in Karnataka-Andhra Pradesh  
 *Leveraging Geoscience Data and Machine Learning to Discover Concealed Mineral Deposits*  
 
@@ -41,7 +38,6 @@ project-root/
 ├── images/                 # Visualizations (EDA, results)
 ├── notebooks/              # Jupyter notebooks (EDA → Modeling)
 └── venv/                   # Conda environment
-```
 
 ---
 
