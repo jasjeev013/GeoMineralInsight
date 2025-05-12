@@ -10,4 +10,7 @@ datasets/Multi-Layer_Geological_Map_of_Karnataka_and_Andhra_Pradesh_50K_Scale/
 datasets/Geochemical data_GIS/
 datasets/Exploration_data/
 
-final_datasets/
+final_datasets/final_features.csv
+final_datasets/final_prospectivity_map.cpg
+final_datasets/magnetic_data_utm.csv
+final_datasets/mineral_probability_map.csv
